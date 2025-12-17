@@ -228,7 +228,7 @@ body
     /* width: 100%; */
     /* justify-content: space-between; */
     /* height: 100vh; */
-    background: url(me.png) no-repeat;
+    background: url(right.png) no-repeat;
     background-size: cover;
     background-position: center;
     /* display: flex; */
@@ -1199,6 +1199,7 @@ body
     }
 
 }
+
 
 
 
