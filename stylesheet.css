@@ -77,7 +77,7 @@ body
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(Wallpaper.png) no-repeat;
+    background: url(back.png) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -1199,5 +1199,6 @@ body
     }
 
 }
+
 
 
